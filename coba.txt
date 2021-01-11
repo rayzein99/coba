@@ -1,2 +1,3 @@
 coba membuat file
-menghapus baris
+
+cabang B menambahkan baris baru dan menghapus baris lama
