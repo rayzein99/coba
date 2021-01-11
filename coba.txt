@@ -1,4 +1,5 @@
 coba membuat file
 menghapus baris
 
-cabang a menambahkan baris baru
+cabang A menambahkan baris baru
+cabang B menambahkan baris baru dan menghapus baris lama
