@@ -1,3 +1,5 @@
 coba membuat file
+menghapus baris
 
+cabang A menambahkan baris baru
 cabang B menambahkan baris baru dan menghapus baris lama
