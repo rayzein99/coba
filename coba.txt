@@ -1,2 +1,2 @@
 coba membuat file
-menambahkan baris baru
+menghapus baris
